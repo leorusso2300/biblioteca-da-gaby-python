@@ -13,7 +13,7 @@ livros_disponiveis = [
     "Jane Eyre",
     "Como Eu Era Antes de Você"
 ]
-]
+
 
 
 def pagina_inicial():

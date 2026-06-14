@@ -6,7 +6,14 @@ OPCAO_REMOVER = 3
 CONTINUAR = 1
 SAIR = 2
 
-livros_disponiveis = ["Livro 1", "Livro 2", "Livro 3"]
+livros_disponiveis = [
+    "Orgulho e Preconceito",
+    "Dom Casmurro",
+    "O Morro dos Ventos Uivantes",
+    "Jane Eyre",
+    "Como Eu Era Antes de Você"
+]
+]
 
 
 def pagina_inicial():

@@ -21,7 +21,7 @@ def pagina_inicial():
 
     print("""
 ========================================
-             BIBLIOTECA DA GABY
+             BIBLIOTECA
 ========================================
 Escolha uma das opções:
 
